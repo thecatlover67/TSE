@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_shade_mod:blocks/shadelaeve",
+    "up": "the_shade_mod:blocks/shadelaeve",
+    "north": "the_shade_mod:blocks/shadelaeve",
+    "east": "the_shade_mod:blocks/shadelaeve",
+    "south": "the_shade_mod:blocks/shadelaeve",
+    "west": "the_shade_mod:blocks/shadelaeve",
+    "particle": "the_shade_mod:blocks/shadelaeve"
+  }
+}

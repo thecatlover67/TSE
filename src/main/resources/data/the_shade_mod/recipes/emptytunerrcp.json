@@ -1,0 +1,39 @@
+{
+  "group": "the_shade_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:nether_star"
+    },
+    "2": {
+      "item": "minecraft:nether_star"
+    },
+    "3": {
+      "item": "minecraft:iron_block"
+    },
+    "4": {
+      "item": "minecraft:black_dye"
+    },
+    "5": {
+      "item": "minecraft:iron_block"
+    },
+    "6": {
+      "item": "minecraft:lapis_block"
+    },
+    "7": {
+      "item": "minecraft:end_crystal"
+    },
+    "8": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "item": "the_shade_mod:emptytuner",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "the_shade_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:red_wool"
+    },
+    "1": {
+      "item": "the_shade_mod:compressed_shadow"
+    },
+    "2": {
+      "item": "minecraft:red_wool"
+    },
+    "3": {
+      "item": "minecraft:red_wool"
+    },
+    "4": {
+      "item": "minecraft:gold_ingot"
+    },
+    "5": {
+      "item": "minecraft:red_wool"
+    },
+    "6": {
+      "item": "the_shade_mod:shadowmatter"
+    },
+    "7": {
+      "item": "minecraft:gold_ingot"
+    },
+    "8": {
+      "item": "the_shade_mod:shadowmatter"
+    }
+  },
+  "result": {
+    "item": "the_shade_mod:cultistset_leggings",
+    "count": 1
+  }
+}

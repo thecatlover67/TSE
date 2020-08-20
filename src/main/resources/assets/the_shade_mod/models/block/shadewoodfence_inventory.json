@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "the_shade_mod:blocks/shade_planks",
+    "particle": "the_shade_mod:blocks/shade_planks"
+  }
+}

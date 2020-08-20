@@ -1,0 +1,27 @@
+{
+  "_fv": 10,
+  "_type": "loottable",
+  "definition": {
+    "type": "Block",
+    "pools": [
+      {
+        "minrolls": 0,
+        "maxrolls": 5,
+        "minbonusrolls": 2,
+        "maxbonusrolls": 4,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:BloodOrange"
+            },
+            "weight": 3
+          }
+        ]
+      }
+    ],
+    "name": "blocks/bloodleaves",
+    "namespace": "mod"
+  }
+}

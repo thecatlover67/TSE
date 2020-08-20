@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "the_shade_mod:block/shadowplane_portal_ew"
+    },
+    "axis=x": {
+      "model": "the_shade_mod:block/shadowplane_portal_ns"
+    }
+  }
+}

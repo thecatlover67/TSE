@@ -1,0 +1,42 @@
+{
+  "group": "the_shade_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:tnt"
+    },
+    "1": {
+      "item": "the_shade_mod:chaoticgem"
+    },
+    "2": {
+      "item": "minecraft:tnt"
+    },
+    "3": {
+      "item": "the_shade_mod:chaoticgem"
+    },
+    "4": {
+      "item": "the_shade_mod:pure_shadow_matter"
+    },
+    "5": {
+      "item": "the_shade_mod:chaoticgem"
+    },
+    "6": {
+      "item": "minecraft:tnt"
+    },
+    "7": {
+      "item": "the_shade_mod:chaoticgem"
+    },
+    "8": {
+      "item": "minecraft:tnt"
+    }
+  },
+  "result": {
+    "item": "the_shade_mod:unholy_handgrenade",
+    "count": 5
+  }
+}

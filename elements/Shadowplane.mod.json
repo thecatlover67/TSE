@@ -1,0 +1,62 @@
+{
+  "_fv": 10,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:Shadedimensionframe"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 0.0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Shade tuner",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "shade_tuner_on",
+    "portalTexture": "portal2",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Shadeforest"
+      },
+      {
+        "value": "CUSTOM:Shadowplains"
+      },
+      {
+        "value": "CUSTOM:Fleshplains"
+      },
+      {
+        "value": "CUSTOM:Bloodocean"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Shadowstone"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:Bloodwater"
+    },
+    "airColor": {
+      "value": -14083022,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "hasWeather": false,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "DENY",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "onPlayerEntersDimension": {
+      "name": "Playersickness"
+    },
+    "onPlayerLeavesDimension": {
+      "name": "PlayerLeavesDimension"
+    }
+  }
+}

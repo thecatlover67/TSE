@@ -1,0 +1,30 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "shadewood_hoe",
+    "customModelName": "Normal",
+    "name": "Shade Sickle",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 4,
+    "efficiency": 10.0,
+    "attackSpeed": 3.0,
+    "enchantability": 22,
+    "damageVsEntity": 10.0,
+    "usageCount": 2069,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Shadewoodplanks"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

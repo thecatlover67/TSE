@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc1",
+    "name": "Music Disc",
+    "description": "Anthony Pavlic - New day",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:new_day"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

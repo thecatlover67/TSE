@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_shade_mod:blocks/blood_planks",
+    "up": "the_shade_mod:blocks/blood_planks",
+    "north": "the_shade_mod:blocks/blood_planks",
+    "east": "the_shade_mod:blocks/blood_planks",
+    "south": "the_shade_mod:blocks/blood_planks",
+    "west": "the_shade_mod:blocks/blood_planks",
+    "particle": "the_shade_mod:blocks/blood_planks"
+  }
+}

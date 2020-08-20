@@ -1,0 +1,29 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "the_shade_mod:shadedimensionframe"
+    },
+    "title": {
+      "translate": "advancements.throughtheshadows.title"
+    },
+    "description": {
+      "translate": "advancements.throughtheshadows.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "throughtheshadows": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "the_shade_mod:shadowplane"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}

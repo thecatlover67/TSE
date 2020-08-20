@@ -1,0 +1,30 @@
+{
+  "group": "the_shade_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    " 45",
+    "6  "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:oak_leaves"
+    },
+    "2": {
+      "tag": "minecraft:small_flowers"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:oak_leaves"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "the_shade_mod:foreststaff",
+    "count": 1
+  }
+}

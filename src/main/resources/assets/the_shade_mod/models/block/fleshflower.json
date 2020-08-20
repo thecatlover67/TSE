@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "the_shade_mod:blocks/flesh_flower",
+    "particle": "the_shade_mod:blocks/flesh_flower"
+  }
+}

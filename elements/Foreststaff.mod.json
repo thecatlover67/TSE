@@ -1,0 +1,36 @@
+{
+  "_fv": 10,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "forest_staff",
+    "customModelName": "Normal",
+    "name": "Forest Staff",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 59,
+    "actionSound": {
+      "value": "block.sweet_berry_bush.break"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 0.8,
+    "bulletDamage": 1.0,
+    "bulletKnockback": 1,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Acorn"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

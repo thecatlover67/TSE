@@ -1,0 +1,26 @@
+{
+  "group": "the_shade_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "the_shade_mod:corruptedflesh"
+    },
+    "2": {
+      "item": "the_shade_mod:corruptedflesh"
+    },
+    "3": {
+      "item": "the_shade_mod:corruptedflesh"
+    },
+    "5": {
+      "item": "the_shade_mod:corruptedflesh"
+    }
+  },
+  "result": {
+    "item": "the_shade_mod:corruptedarmor_boots",
+    "count": 1
+  }
+}

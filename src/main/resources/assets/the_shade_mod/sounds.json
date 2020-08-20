@@ -1,0 +1,29 @@
+{
+  "new_day": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "the_shade_mod:new_day-anthonypavlic",
+        "stream": true
+      }
+    ]
+  },
+  "dusk": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "the_shade_mod:dusk",
+        "stream": true
+      }
+    ]
+  },
+  "spider_ambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "the_shade_mod:spider_ambient",
+        "stream": false
+      }
+    ]
+  }
+}

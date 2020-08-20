@@ -1,0 +1,33 @@
+{
+  "group": "the_shade_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 78"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:blaze_powder"
+    },
+    "3": {
+      "item": "minecraft:blaze_rod"
+    },
+    "4": {
+      "item": "the_shade_mod:ancientsteel"
+    },
+    "5": {
+      "item": "the_shade_mod:ancientsteel"
+    },
+    "7": {
+      "item": "the_shade_mod:ancientsteel"
+    },
+    "8": {
+      "item": "the_shade_mod:compressed_shadow"
+    }
+  },
+  "result": {
+    "item": "the_shade_mod:greekflamethrower",
+    "count": 1
+  }
+}

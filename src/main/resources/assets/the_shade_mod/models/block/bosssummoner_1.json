@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_shade_mod:blocks/boss_spawn",
+    "up": "the_shade_mod:blocks/boss_spawn",
+    "north": "the_shade_mod:blocks/boss_spawn",
+    "east": "the_shade_mod:blocks/boss_spawn",
+    "south": "the_shade_mod:blocks/boss_spawn",
+    "west": "the_shade_mod:blocks/boss_spawn",
+    "particle": "the_shade_mod:blocks/boss_spawn"
+  }
+}

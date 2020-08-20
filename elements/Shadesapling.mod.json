@@ -1,0 +1,46 @@
+{
+  "_fv": 10,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "shade_saplingtex",
+    "customModelName": "Cross model",
+    "plantType": "normal",
+    "staticPlantGenerationType": "Flower",
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 3,
+    "name": "Shade Bush",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "DECORATIONS"
+    },
+    "hardness": 1.0,
+    "resistance": 0.0,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "forceTicking": true,
+    "emissiveRendering": false,
+    "hasTileEntity": true,
+    "isReplaceable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "NONE",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 1,
+    "fireSpreadSpeed": 1,
+    "frequencyOnChunks": 1,
+    "spawnWorldTypes": [
+      "CUSTOM:Shadowplane"
+    ],
+    "restrictionBiomes": []
+  }
+}

@@ -1,0 +1,1892 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Shadedimensionframe",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadedimensionframe"
+    },
+    {
+      "name": "Shadewoodlog",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewoodlog"
+    },
+    {
+      "name": "Fleshballitem",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fleshballitem"
+    },
+    {
+      "name": "Fleshstaff",
+      "type": "gun",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fleshstaff"
+    },
+    {
+      "name": "Bloodore",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodore"
+    },
+    {
+      "name": "Shadeleaves",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadeleaves"
+    },
+    {
+      "name": "Shadowstone",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadowstone"
+    },
+    {
+      "name": "Shadewoodgreatsword",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewoodgreatsword"
+    },
+    {
+      "name": "Shadewoodplanks",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewoodplanks"
+    },
+    {
+      "name": "Shdwdrcp",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shdwdrcp"
+    },
+    {
+      "name": "Shdswrdrcp",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shdswrdrcp"
+    },
+    {
+      "name": "Shadespider",
+      "type": "mob",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadespider"
+    },
+    {
+      "name": "Heart",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heart"
+    },
+    {
+      "name": "Fleshstaffrcp",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fleshstaffrcp"
+    },
+    {
+      "name": "Shadeforest",
+      "type": "biome",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadeforest"
+    },
+    {
+      "name": "Shadowplane",
+      "type": "dimension",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadowplane"
+    },
+    {
+      "name": "Shadewoodstairs",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewoodstairs"
+    },
+    {
+      "name": "Shadewoodslab",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewoodslab"
+    },
+    {
+      "name": "Shadewoodfence",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewoodfence"
+    },
+    {
+      "name": "Shadezombie1",
+      "type": "mob",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadezombie_1"
+    },
+    {
+      "name": "Hearttable",
+      "type": "loottable",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hearttable"
+    },
+    {
+      "name": "Emptytuner",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emptytuner"
+    },
+    {
+      "name": "Shadetunerrcp",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadetunerrcp"
+    },
+    {
+      "name": "Emptytunerrcp",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emptytunerrcp"
+    },
+    {
+      "name": "Shadepickaxe",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadepickaxe"
+    },
+    {
+      "name": "Shadeaxe",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadeaxe"
+    },
+    {
+      "name": "Shadeshovel",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadeshovel"
+    },
+    {
+      "name": "Shadesickle",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadesickle"
+    },
+    {
+      "name": "Shadepickrcp",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadepickrcp"
+    },
+    {
+      "name": "Shadeaxercp",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadeaxercp"
+    },
+    {
+      "name": "Shadespadercp",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadespadercp"
+    },
+    {
+      "name": "Shadesicklercp",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadesicklercp"
+    },
+    {
+      "name": "Servant",
+      "type": "mob",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "servant"
+    },
+    {
+      "name": "Woodenhammer",
+      "type": "tool",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woodenhammer"
+    },
+    {
+      "name": "Whammerrcp",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "whammerrcp"
+    },
+    {
+      "name": "Plantfiber",
+      "type": "item",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plantfiber"
+    },
+    {
+      "name": "Shadowplains",
+      "type": "biome",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadowplains"
+    },
+    {
+      "name": "Playersickness",
+      "type": "procedure",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "playersickness",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PlayerLeavesDimension",
+      "type": "procedure",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "player_leaves_dimension",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Plantfiberrcp",
+      "type": "loottable",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plantfiberrcp"
+    },
+    {
+      "name": "Shadesapling",
+      "type": "plant",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadesapling"
+    },
+    {
+      "name": "Shadezombie2",
+      "type": "mob",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadezombie_2"
+    },
+    {
+      "name": "Anthonypavlicnewday",
+      "type": "musicdisc",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anthonypavlicnewday"
+    },
+    {
+      "name": "Stonehammer",
+      "type": "tool",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stonehammer"
+    },
+    {
+      "name": "Ironhammer",
+      "type": "tool",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ironhammer"
+    },
+    {
+      "name": "Shammerrcp",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shammerrcp"
+    },
+    {
+      "name": "Ihammerrcp",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ihammerrcp"
+    },
+    {
+      "name": "Shadewoodfencegate",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewoodfencegate"
+    },
+    {
+      "name": "CorruptedfleshFoodEaten",
+      "type": "procedure",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptedflesh_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Corruptedflesh",
+      "type": "food",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptedflesh"
+    },
+    {
+      "name": "Acorn",
+      "type": "item",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "acorn"
+    },
+    {
+      "name": "Foreststaff",
+      "type": "gun",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "foreststaff"
+    },
+    {
+      "name": "Shadeitem",
+      "type": "item",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadeitem"
+    },
+    {
+      "name": "Shadestaff",
+      "type": "gun",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadestaff"
+    },
+    {
+      "name": "Diamonditem",
+      "type": "item",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamonditem"
+    },
+    {
+      "name": "Diamondstaff",
+      "type": "gun",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamondstaff"
+    },
+    {
+      "name": "Corruptedarmor",
+      "type": "armor",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptedarmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "CorruptedarmorHelmetTickEvent",
+      "type": "procedure",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptedarmor_helmet_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CorruptedarmorBodyTickEvent",
+      "type": "procedure",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptedarmor_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CorruptedarmorLeggingsTickEvent",
+      "type": "procedure",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptedarmor_leggings_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CorruptedarmorBootsTickEvent",
+      "type": "procedure",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptedarmor_boots_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Diamondstaffrcp",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamondstaffrcp"
+    },
+    {
+      "name": "Bloodingot",
+      "type": "item",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodingot"
+    },
+    {
+      "name": "Naturestaffrcp",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naturestaffrcp"
+    },
+    {
+      "name": "Shadestaffrcp",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadestaffrcp"
+    },
+    {
+      "name": "Bloodingotrcp",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodingotrcp"
+    },
+    {
+      "name": "Bloodrcp2",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodrcp_2"
+    },
+    {
+      "name": "Helmet",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "helmet"
+    },
+    {
+      "name": "Body",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "body"
+    },
+    {
+      "name": "Leggings",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leggings"
+    },
+    {
+      "name": "Boots",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boots"
+    },
+    {
+      "name": "Duskanthonypavlic",
+      "type": "musicdisc",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "duskanthonypavlic"
+    },
+    {
+      "name": "Musictable",
+      "type": "loottable",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "musictable"
+    },
+    {
+      "name": "Vashtanerada",
+      "type": "mob",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vashtanerada"
+    },
+    {
+      "name": "Purplemossybricks",
+      "type": "block",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purplemossybricks"
+    },
+    {
+      "name": "Corruptedblock",
+      "type": "block",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptedblock"
+    },
+    {
+      "name": "Shadetrapdoor",
+      "type": "block",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadetrapdoor"
+    },
+    {
+      "name": "Shadewooddoor",
+      "type": "block",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewooddoor"
+    },
+    {
+      "name": "Chaoticore",
+      "type": "block",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chaoticore"
+    },
+    {
+      "name": "Chaoticshard",
+      "type": "item",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chaoticshard"
+    },
+    {
+      "name": "Chaoticgem",
+      "type": "item",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chaoticgem"
+    },
+    {
+      "name": "Lostsoul",
+      "type": "mob",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lostsoul"
+    },
+    {
+      "name": "Throughtheshadows",
+      "type": "achievement",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "throughtheshadows"
+    },
+    {
+      "name": "Obsidianrcp",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidianrcp"
+    },
+    {
+      "name": "Fleshrcp",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fleshrcp"
+    },
+    {
+      "name": "Fleshrcp2",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fleshrcp_2"
+    },
+    {
+      "name": "Chaoticrcp",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chaoticrcp"
+    },
+    {
+      "name": "Fleshblock",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fleshblock"
+    },
+    {
+      "name": "Fleshplains",
+      "type": "biome",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fleshplains"
+    },
+    {
+      "name": "Leave",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leave"
+    },
+    {
+      "name": "SpineStalk",
+      "type": "plant",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spine_stalk"
+    },
+    {
+      "name": "Fleshflower",
+      "type": "plant",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fleshflower"
+    },
+    {
+      "name": "Diamondhammer",
+      "type": "tool",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamondhammer"
+    },
+    {
+      "name": "ShadowappleFoodEaten",
+      "type": "procedure",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadowapple_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Shadowapple",
+      "type": "food",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadowapple"
+    },
+    {
+      "name": "BloodOrange",
+      "type": "food",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blood_orange"
+    },
+    {
+      "name": "Ghoul",
+      "type": "mob",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghoul"
+    },
+    {
+      "name": "Ghoulling",
+      "type": "mob",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghoulling"
+    },
+    {
+      "name": "BloodLog",
+      "type": "block",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blood_log"
+    },
+    {
+      "name": "Bloodleaves",
+      "type": "block",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodleaves"
+    },
+    {
+      "name": "BloodPlanks",
+      "type": "block",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blood_planks"
+    },
+    {
+      "name": "Bloodorgtable",
+      "type": "loottable",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodorgtable"
+    },
+    {
+      "name": "DelapidatedVillage",
+      "type": "structure",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "delapidated_village"
+    },
+    {
+      "name": "DelapVillageLoot",
+      "type": "loottable",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "delap_village_loot"
+    },
+    {
+      "name": "Ghostberrybush1",
+      "type": "plant",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghostberrybush_1"
+    },
+    {
+      "name": "Grow1",
+      "type": "procedure",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grow_1",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ghostberrybush2",
+      "type": "plant",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghostberrybush_2"
+    },
+    {
+      "name": "Grow2",
+      "type": "procedure",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grow_2",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ghostberrybush0",
+      "type": "plant",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghostberrybush_0"
+    },
+    {
+      "name": "Grow0",
+      "type": "procedure",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grow_0",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ghostberry",
+      "type": "food",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghostberry"
+    },
+    {
+      "name": "Ghostberrybush3",
+      "type": "plant",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghostberrybush_3"
+    },
+    {
+      "name": "Bloodtree",
+      "type": "structure",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodtree"
+    },
+    {
+      "name": "Journalcamp1",
+      "type": "structure",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "journalcamp_1"
+    },
+    {
+      "name": "PurpleMossyCobble",
+      "type": "block",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_mossy_cobble"
+    },
+    {
+      "name": "Fleshrib",
+      "type": "structure",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fleshrib"
+    },
+    {
+      "name": "Bloodwater",
+      "type": "fluid",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodwater"
+    },
+    {
+      "name": "Bloodocean",
+      "type": "biome",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodocean"
+    },
+    {
+      "name": "Ghoullord",
+      "type": "mob",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghoullord"
+    },
+    {
+      "name": "Cultist",
+      "type": "mob",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cultist"
+    },
+    {
+      "name": "Ghoullordstage2",
+      "type": "procedure",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghoullordstage_2",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ghoullord2",
+      "type": "mob",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghoullord_2"
+    },
+    {
+      "name": "Skullblock",
+      "type": "block",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "skullblock"
+    },
+    {
+      "name": "HolyHandgrenade",
+      "type": "gun",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "holy_handgrenade"
+    },
+    {
+      "name": "HolyHandgrenadeBulletHitsBlock",
+      "type": "procedure",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "holy_handgrenade_bullet_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "UnholyHandgrenade",
+      "type": "gun",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unholy_handgrenade"
+    },
+    {
+      "name": "UnholyHandgrenadeBulletHitsBlock",
+      "type": "procedure",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unholy_handgrenade_bullet_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Createboss1",
+      "type": "procedure",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "createboss_1",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cultistset",
+      "type": "armor",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cultistset",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "HolyIngot",
+      "type": "item",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "holy_ingot"
+    },
+    {
+      "name": "Holyrecipe",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "holyrecipe"
+    },
+    {
+      "name": "Grenadercp",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grenadercp"
+    },
+    {
+      "name": "Ungrenadercp",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ungrenadercp"
+    },
+    {
+      "name": "Shadowmatter",
+      "type": "item",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadowmatter"
+    },
+    {
+      "name": "CompressedShadow",
+      "type": "item",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "compressed_shadow"
+    },
+    {
+      "name": "PureShadowMatter",
+      "type": "item",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pure_shadow_matter"
+    },
+    {
+      "name": "Cultisthelm",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cultisthelm"
+    },
+    {
+      "name": "Cultistchest",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cultistchest"
+    },
+    {
+      "name": "Cultistlegs",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cultistlegs"
+    },
+    {
+      "name": "Cultistboots",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cultistboots"
+    },
+    {
+      "name": "Fire2",
+      "type": "item",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_2"
+    },
+    {
+      "name": "GreekflamethrowerWhileBulletFlyingTick",
+      "type": "procedure",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greekflamethrower_while_bullet_flying_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Greekflamethrower",
+      "type": "gun",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greekflamethrower"
+    },
+    {
+      "name": "Skullrcp",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "skullrcp"
+    },
+    {
+      "name": "Compresscp",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "compresscp"
+    },
+    {
+      "name": "Compresscp2",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "compresscp_2"
+    },
+    {
+      "name": "Compresscp3",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "compresscp_3"
+    },
+    {
+      "name": "Compresscp4",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "compresscp_4"
+    },
+    {
+      "name": "Flamercp",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flamercp"
+    },
+    {
+      "name": "Ancientsteel",
+      "type": "item",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancientsteel"
+    },
+    {
+      "name": "AncientMace",
+      "type": "tool",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_mace"
+    },
+    {
+      "name": "Furnacercp2",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "furnacercp_2"
+    },
+    {
+      "name": "Bonercp",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bonercp"
+    },
+    {
+      "name": "Macercp",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "macercp"
+    },
+    {
+      "name": "Ancientspear",
+      "type": "tool",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancientspear"
+    },
+    {
+      "name": "Spearrcp",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spearrcp"
+    },
+    {
+      "name": "ShadowBlade",
+      "type": "tool",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_blade"
+    },
+    {
+      "name": "Shadowbladercp",
+      "type": "recipe",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadowbladercp"
+    },
+    {
+      "name": "Corruptedone1",
+      "type": "mob",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptedone_1"
+    },
+    {
+      "name": "Corruptedone2",
+      "type": "mob",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corruptedone_2"
+    },
+    {
+      "name": "Thegeneral",
+      "type": "mob",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thegeneral"
+    },
+    {
+      "name": "Bosssummoner1",
+      "type": "block",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bosssummoner_1"
+    },
+    {
+      "name": "Bosssummoner1OnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bosssummoner_1_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "bossinlocal",
+      "type": "logic",
+      "scope": "map",
+      "value": "false"
+    }
+  ],
+  "sound_elements": [
+    {
+      "name": "new_day",
+      "file": "new_day-anthonypavlic",
+      "category": "record"
+    },
+    {
+      "name": "dusk",
+      "file": "dusk",
+      "category": "record"
+    },
+    {
+      "name": "spider_ambient",
+      "file": "spider_ambient",
+      "category": "ambient"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.the_shade_mod.anthonypavlicnewday.desc": "Anthony Pavlic - New day",
+      "item.the_shade_mod.fleshstaff": "Flesh Staff",
+      "block.the_shade_mod.fleshflower": "Flesh Flower",
+      "block.the_shade_mod.shadewoodfence": "Shadewood Fence",
+      "block.the_shade_mod.shadowstone": "Shadow Stone",
+      "block.the_shade_mod.bloodore": "Blood Ore",
+      "block.the_shade_mod.shadetrapdoor": "Shadewood Trapdoor",
+      "item.the_shade_mod.bloodwater_bucket": "Bloodwater Bucket",
+      "item.the_shade_mod.ghostberry": "Ghost Berry",
+      "entity.the_shade_mod.thegeneral": "The General",
+      "block.the_shade_mod.bloodleaves": "Blood Leaves",
+      "block.the_shade_mod.shadewoodlog": "Shadewood Log",
+      "fluid.bloodwater": "Bloodwater",
+      "item.the_shade_mod.diamonditem": "Diamonditem",
+      "item.the_shade_mod.greekflamethrower": "Greek Flame Thrower",
+      "item.the_shade_mod.shadezombie_1": "Shade zombie Spawn Egg",
+      "item.the_shade_mod.corruptedarmor_boots": "Corrupted Boots",
+      "item.the_shade_mod.shadezombie_2": "Shade zombie  Spawn Egg",
+      "entity.the_shade_mod.shadespider": "Shade Spider",
+      "item.the_shade_mod.shadestaff": "Shade Staff",
+      "item.the_shade_mod.shadesickle": "Shade Sickle",
+      "block.the_shade_mod.skullblock": "Skullblock",
+      "item.the_shade_mod.fleshballitem": "Fleshballitem",
+      "block.the_shade_mod.shadedimensionframe": "Bleeding Obsidian",
+      "entity.the_shade_mod.ghoullord_2": "Ghoul Lord",
+      "entity.the_shade_mod.servant": "Servant",
+      "block.the_shade_mod.purplemossybricks": "Purple Mossy Bricks",
+      "item.the_shade_mod.duskanthonypavlic": "Music Disc",
+      "block.the_shade_mod.blood_planks": "Blood Planks",
+      "item.the_shade_mod.corruptedarmor_chestplate": "Corrupted Chestplate",
+      "block.the_shade_mod.fleshblock": "Flesh Block",
+      "item.the_shade_mod.diamondhammer": "Diamond Hammer",
+      "block.the_shade_mod.spine_stalk": "Spine Stalk",
+      "item.the_shade_mod.shadowapple": "Shadow Apple",
+      "item.the_shade_mod.ghoullord": "Ghoul Lord Spawn Egg",
+      "item.the_shade_mod.ghoulling": "Ghoulling Spawn Egg",
+      "block.the_shade_mod.shadewooddoor": "Shadewood Door",
+      "item.the_shade_mod.lostsoul": "Lost Soul Spawn Egg",
+      "advancements.throughtheshadows.descr": "you went through Hell and the End of time to get here",
+      "item.the_shade_mod.anthonypavlicnewday": "Music Disc",
+      "item.the_shade_mod.heart": "Heart",
+      "block.the_shade_mod.shadewoodplanks": "Shadewood Planks",
+      "item.the_shade_mod.shadow_blade": "Shadow Blade",
+      "item.the_shade_mod.shadespider": "Shade Spider Spawn Egg",
+      "entity.the_shade_mod.corruptedone_1": "corrupted one",
+      "item.the_shade_mod.diamondstaff": "Diamond Staff",
+      "entity.the_shade_mod.corruptedone_2": "corrupted one",
+      "item.the_shade_mod.acorn": "Acorn",
+      "item.the_shade_mod.cultist": "Cultist Spawn Egg",
+      "item.the_shade_mod.shadowplane": "Shade tuner",
+      "item.the_shade_mod.cultistset_helmet": "Cult Hood",
+      "block.the_shade_mod.chaoticore": "Chaotic Ore",
+      "item.the_shade_mod.cultistset_chestplate": "Cult Upper Robe",
+      "entity.the_shade_mod.shadezombie_1": "Shade zombie",
+      "entity.the_shade_mod.shadezombie_2": "Shade zombie ",
+      "item.the_shade_mod.cultistset_leggings": "Cult Robe",
+      "item.the_shade_mod.vashtanerada": "Vashta Nerada Spawn Egg",
+      "entity.the_shade_mod.ghoul": "Ghoul",
+      "item.the_shade_mod.corruptedflesh": "Corrupted Flesh",
+      "item.the_shade_mod.compressed_shadow": "Compressed Shadow",
+      "item.the_shade_mod.duskanthonypavlic.desc": "Anthony Pavlic - Dusk",
+      "item.the_shade_mod.ancient_mace": "Ancient Mace",
+      "block.the_shade_mod.purple_mossy_cobble": "Purple Mossy Cobblestone",
+      "block.the_shade_mod.shadeleaves": "Shade Leaves",
+      "item.the_shade_mod.pure_shadow_matter": "Pure Shadow Matter",
+      "item.the_shade_mod.shadepickaxe": "Shade Pickaxe",
+      "item.the_shade_mod.ironhammer": "Iron Hammer",
+      "item.the_shade_mod.shadewoodgreatsword": "Shade Greatsword",
+      "item.the_shade_mod.foreststaff": "Forest Staff",
+      "item.the_shade_mod.corruptedone_1": "corrupted one Spawn Egg",
+      "block.the_shade_mod.corruptedblock": "Corrupted Block",
+      "block.the_shade_mod.bosssummoner_1": "Bosssummoner 1",
+      "item.the_shade_mod.bloodingot": "Blood Ingot",
+      "item.the_shade_mod.corruptedone_2": "corrupted one Spawn Egg",
+      "item.the_shade_mod.shadeaxe": "Shade Axe",
+      "item.the_shade_mod.corruptedarmor_leggings": "Corrupted Leggings",
+      "item.the_shade_mod.shadeshovel": "Shade Shovel",
+      "item.the_shade_mod.emptytuner": "Empty Tuner",
+      "entity.the_shade_mod.vashtanerada": "Vashta Nerada",
+      "item.the_shade_mod.chaoticgem": "Chaotic Gem",
+      "item.the_shade_mod.ghoullord_2": "Ghoul Lord Spawn Egg",
+      "block.the_shade_mod.blood_log": "Blood Log",
+      "item.the_shade_mod.ancientsteel": "Ancient Steel Ingot",
+      "entity.the_shade_mod.ghoulling": "Ghoulling",
+      "item.the_shade_mod.blood_orange": "Blood Orange",
+      "advancements.throughtheshadows.title": "Through the shadows",
+      "block.the_shade_mod.shadewoodstairs": "Shadewood Stairs",
+      "item.the_shade_mod.unholy_handgrenade": "Unholy Handgrenade",
+      "entity.the_shade_mod.ghoullord": "Ghoul Lord",
+      "item.the_shade_mod.holy_ingot": "Holy Ingot",
+      "block.the_shade_mod.shadesapling": "Shade Bush",
+      "item.the_shade_mod.corruptedarmor_helmet": "Corrupted Helmet",
+      "entity.the_shade_mod.cultist": "Cultist",
+      "block.the_shade_mod.shadewoodslab": "Shadewood Slab",
+      "item.the_shade_mod.shadeitem": "Shadeitem",
+      "block.the_shade_mod.ghostberrybush_2": "Ghostberrybush",
+      "item.the_shade_mod.stonehammer": "Stone Hammer",
+      "block.the_shade_mod.ghostberrybush_1": "Ghostberrybush",
+      "block.the_shade_mod.ghostberrybush_0": "Ghostberrybush ",
+      "item.the_shade_mod.chaoticshard": "Chaotic Shard",
+      "item.the_shade_mod.plantfiber": "Plant Fiber",
+      "item.the_shade_mod.shadowmatter": "Shadow Matter",
+      "entity.the_shade_mod.lostsoul": "Lost Soul",
+      "item.the_shade_mod.ghoul": "Ghoul Spawn Egg",
+      "item.the_shade_mod.thegeneral": "The General Spawn Egg",
+      "item.the_shade_mod.cultistset_boots": "Cult Lower Robe",
+      "block.the_shade_mod.shadewoodfencegate": "Shadewood Fencegate",
+      "item.the_shade_mod.ancientspear": "Ancient Spear",
+      "item.the_shade_mod.woodenhammer": "Wooden Hammer",
+      "item.the_shade_mod.holy_handgrenade": "Holy Handgrenade",
+      "item.the_shade_mod.fire_2": "Fire 2",
+      "item.the_shade_mod.servant": "Servant Spawn Egg",
+      "block.the_shade_mod.ghostberrybush_3": "Ghostberrybush"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "the_shade_mod",
+    "modName": "the shadows encroaching",
+    "version": "1.0.0",
+    "author": "theca, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.theshademod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

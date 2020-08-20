@@ -1,0 +1,91 @@
+{
+  "_fv": 10,
+  "_type": "biome",
+  "definition": {
+    "groundBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.DIRT#0"
+    },
+    "generateLakes": false,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 10,
+    "spawnVines": false,
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeStem": {
+      "value": "CUSTOM:Shadewoodlog"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:Shadeleaves"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "airColor": {
+      "value": -5916161,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -15398115,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -10541530,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 30,
+    "grassPerChunk": 4,
+    "flowersPerChunk": 4,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": false,
+    "biomeWeight": 25,
+    "biomeType": "COOL",
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "CUSTOM:Shadowplains"
+    },
+    "biomeDictionaryTypes": [],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "CUSTOM:Shadespider"
+        },
+        "minGroup": 1,
+        "maxGroup": 15,
+        "weight": 15,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "CUSTOM:Shadespider"
+        },
+        "minGroup": 1,
+        "maxGroup": 15,
+        "weight": 15,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "CUSTOM:Servant"
+        },
+        "minGroup": 1,
+        "maxGroup": 15,
+        "weight": 15,
+        "spawnType": "creature"
+      }
+    ]
+  }
+}

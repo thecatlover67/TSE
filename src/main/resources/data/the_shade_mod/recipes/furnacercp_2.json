@@ -1,0 +1,39 @@
+{
+  "group": "the_shade_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_shade_mod:shadowstone"
+    },
+    "1": {
+      "item": "the_shade_mod:shadowstone"
+    },
+    "2": {
+      "item": "the_shade_mod:shadowstone"
+    },
+    "3": {
+      "item": "the_shade_mod:shadowstone"
+    },
+    "5": {
+      "item": "the_shade_mod:shadowstone"
+    },
+    "6": {
+      "item": "the_shade_mod:shadowstone"
+    },
+    "7": {
+      "item": "the_shade_mod:shadowstone"
+    },
+    "8": {
+      "item": "the_shade_mod:shadowstone"
+    }
+  },
+  "result": {
+    "item": "minecraft:furnace",
+    "count": 1
+  }
+}

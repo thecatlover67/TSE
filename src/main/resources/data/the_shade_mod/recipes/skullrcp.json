@@ -1,0 +1,42 @@
+{
+  "group": "the_shade_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_shade_mod:compressed_shadow"
+    },
+    "1": {
+      "item": "minecraft:bone_block"
+    },
+    "2": {
+      "item": "the_shade_mod:compressed_shadow"
+    },
+    "3": {
+      "item": "minecraft:bone_block"
+    },
+    "4": {
+      "item": "the_shade_mod:fleshblock"
+    },
+    "5": {
+      "item": "minecraft:bone_block"
+    },
+    "6": {
+      "item": "minecraft:bone"
+    },
+    "7": {
+      "item": "the_shade_mod:fleshblock"
+    },
+    "8": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "item": "the_shade_mod:skullblock",
+    "count": 1
+  }
+}

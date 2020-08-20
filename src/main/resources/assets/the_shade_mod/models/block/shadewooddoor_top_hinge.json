@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "the_shade_mod:blocks/shade_door_bottom",
+    "top": "the_shade_mod:blocks/shadedoortop2"
+  }
+}

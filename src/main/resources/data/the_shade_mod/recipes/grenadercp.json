@@ -1,0 +1,42 @@
+{
+  "group": "the_shade_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:quartz_block"
+    },
+    "1": {
+      "item": "the_shade_mod:holy_ingot"
+    },
+    "2": {
+      "item": "minecraft:quartz_block"
+    },
+    "3": {
+      "item": "the_shade_mod:holy_ingot"
+    },
+    "4": {
+      "item": "minecraft:tnt"
+    },
+    "5": {
+      "item": "the_shade_mod:holy_ingot"
+    },
+    "6": {
+      "item": "minecraft:quartz_block"
+    },
+    "7": {
+      "item": "the_shade_mod:holy_ingot"
+    },
+    "8": {
+      "item": "minecraft:quartz_block"
+    }
+  },
+  "result": {
+    "item": "the_shade_mod:holy_handgrenade",
+    "count": 16
+  }
+}

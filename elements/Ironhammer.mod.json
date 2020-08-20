@@ -1,0 +1,30 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "iron_hammer",
+    "customModelName": "Normal",
+    "name": "Iron Hammer",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 0.6,
+    "enchantability": 14,
+    "damageVsEntity": 10.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.IRON_BLOCK"
+      }
+    ],
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "_fv": 10,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "unholygrenade",
+    "customModelName": "Normal",
+    "name": "Unholy Handgrenade",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 16,
+    "ammoItem": {
+      "value": "CUSTOM:UnholyHandgrenade"
+    },
+    "shootConstantly": false,
+    "usageCount": 0,
+    "actionSound": {
+      "value": ""
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 0.7999999999999999,
+    "bulletDamage": 5.0,
+    "bulletKnockback": 0,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:UnholyHandgrenade"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "UnholyHandgrenadeBulletHitsBlock"
+    },
+    "onBulletHitsEntity": {
+      "name": "UnholyHandgrenadeBulletHitsBlock"
+    }
+  }
+}

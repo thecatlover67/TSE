@@ -1,0 +1,27 @@
+{
+  "group": "the_shade_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "the_shade_mod:shadewoodplanks"
+    },
+    "1": {
+      "item": "the_shade_mod:shadewoodplanks"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "the_shade_mod:shadesickle",
+    "count": 1
+  }
+}

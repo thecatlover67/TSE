@@ -1,0 +1,46 @@
+{
+  "_fv": 10,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.WOOL#14"
+      },
+      {
+        "value": "CUSTOM:CompressedShadow"
+      },
+      {
+        "value": "Blocks.WOOL#14"
+      },
+      {
+        "value": "Blocks.WOOL#14"
+      },
+      {
+        "value": "Items.GOLD_INGOT"
+      },
+      {
+        "value": "Blocks.WOOL#14"
+      },
+      {
+        "value": "CUSTOM:Shadowmatter"
+      },
+      {
+        "value": "Items.GOLD_INGOT"
+      },
+      {
+        "value": "CUSTOM:Shadowmatter"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Cultistset.legs"
+    },
+    "name": "cultistlegs",
+    "namespace": "mod"
+  }
+}

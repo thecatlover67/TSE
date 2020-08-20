@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "the_shade_mod:block/shadewoodslab"
+    },
+    "type=top": {
+      "model": "the_shade_mod:block/shadewoodslab_top"
+    },
+    "type=double": {
+      "model": "the_shade_mod:block/shadewoodslab_full"
+    }
+  }
+}

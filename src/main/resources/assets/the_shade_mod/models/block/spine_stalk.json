@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "the_shade_mod:blocks/spine_stalk",
+    "particle": "the_shade_mod:blocks/spine_stalk"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "_fv": 10,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "armor3",
+    "enableBody": true,
+    "textureBody": "armor1",
+    "enableLeggings": true,
+    "textureLeggings": "armor2",
+    "enableBoots": true,
+    "textureBoots": "armor4",
+    "onHelmetTick": {
+      "name": "CorruptedarmorHelmetTickEvent"
+    },
+    "onBodyTick": {
+      "name": "CorruptedarmorBodyTickEvent"
+    },
+    "onLeggingsTick": {
+      "name": "CorruptedarmorLeggingsTickEvent"
+    },
+    "onBootsTick": {
+      "name": "CorruptedarmorBootsTickEvent"
+    },
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "shade_",
+    "helmetName": "Corrupted Helmet",
+    "bodyName": "Corrupted Chestplate",
+    "leggingsName": "Corrupted Leggings",
+    "bootsName": "Corrupted Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 25,
+    "damageValueHelmet": 2,
+    "damageValueBody": 7,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 25,
+    "toughness": 3.0,
+    "equipSound": {
+      "value": "block.slime.hit"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Corruptedflesh"
+      }
+    ]
+  }
+}

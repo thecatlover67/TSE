@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_shade_mod:blocks/unknown_7",
+    "up": "the_shade_mod:blocks/unknown_7",
+    "north": "the_shade_mod:blocks/unknown_7",
+    "east": "the_shade_mod:blocks/unknown_7",
+    "south": "the_shade_mod:blocks/unknown_7",
+    "west": "the_shade_mod:blocks/unknown_7",
+    "particle": "the_shade_mod:blocks/unknown_7"
+  }
+}

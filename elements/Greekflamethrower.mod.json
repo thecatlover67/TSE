@@ -1,0 +1,39 @@
+{
+  "_fv": 10,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "flammenwerfer",
+    "customModelName": "Normal",
+    "name": "Greek Flame Thrower",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "Items.BLAZE_POWDER"
+    },
+    "shootConstantly": true,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "entity.blaze.shoot"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 0.7000000000000001,
+    "bulletDamage": 3.0,
+    "bulletKnockback": 0,
+    "bulletParticles": false,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Fire2"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletFlyingTick": {
+      "name": "GreekflamethrowerWhileBulletFlyingTick"
+    }
+  }
+}

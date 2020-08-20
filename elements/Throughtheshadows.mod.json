@@ -1,0 +1,25 @@
+{
+  "_fv": 10,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Through the shadows",
+    "achievementDescription": "you went through Hell and the End of time to get here",
+    "achievementIcon": {
+      "value": "CUSTOM:Shadedimensionframe"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardFunction": "No function",
+    "rewardXP": 50,
+    "achievementType": "goal",
+    "parent": {
+      "value": "No parent: root"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"dimension_entered\" x=\"36\" y=\"57\"><field name=\"dimension\">CUSTOM:Shadowplane</field><next><block type=\"advancement_trigger\" deletable=\"false\"/></next></block></xml>"
+  }
+}

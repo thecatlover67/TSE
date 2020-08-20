@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_shade_mod:blocks/shadowstone4",
+    "up": "the_shade_mod:blocks/shadowstone4",
+    "north": "the_shade_mod:blocks/shadowstone4",
+    "east": "the_shade_mod:blocks/shadowstone4",
+    "south": "the_shade_mod:blocks/shadowstone4",
+    "west": "the_shade_mod:blocks/shadowstone4",
+    "particle": "the_shade_mod:blocks/shadowstone4"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_strad",
+    "name": "Music Disc",
+    "description": "Anthony Pavlic - Dusk",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:dusk"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

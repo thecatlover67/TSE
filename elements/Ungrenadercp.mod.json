@@ -1,0 +1,46 @@
+{
+  "_fv": 10,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 5,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.TNT"
+      },
+      {
+        "value": "CUSTOM:Chaoticgem"
+      },
+      {
+        "value": "Blocks.TNT"
+      },
+      {
+        "value": "CUSTOM:Chaoticgem"
+      },
+      {
+        "value": "CUSTOM:PureShadowMatter"
+      },
+      {
+        "value": "CUSTOM:Chaoticgem"
+      },
+      {
+        "value": "Blocks.TNT"
+      },
+      {
+        "value": "CUSTOM:Chaoticgem"
+      },
+      {
+        "value": "Blocks.TNT"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:UnholyHandgrenade"
+    },
+    "name": "ungrenadercp",
+    "namespace": "mod"
+  }
+}

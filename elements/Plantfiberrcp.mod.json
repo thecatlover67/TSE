@@ -1,0 +1,27 @@
+{
+  "_fv": 10,
+  "_type": "loottable",
+  "definition": {
+    "type": "Block",
+    "pools": [
+      {
+        "minrolls": 0,
+        "maxrolls": 2,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 1,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Plantfiber"
+            },
+            "weight": 5
+          }
+        ]
+      }
+    ],
+    "name": "blocks/oak_leaves",
+    "namespace": "minecraft"
+  }
+}

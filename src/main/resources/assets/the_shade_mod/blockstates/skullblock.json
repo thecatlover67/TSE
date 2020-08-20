@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "the_shade_mod:block/skullblock"
+    },
+    "facing=east": {
+      "model": "the_shade_mod:block/skullblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "the_shade_mod:block/skullblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "the_shade_mod:block/skullblock",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "_fv": 10,
+  "_type": "loottable",
+  "definition": {
+    "type": "Chest",
+    "pools": [
+      {
+        "minrolls": 1,
+        "maxrolls": 10,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 1,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "Blocks.WEB"
+            },
+            "weight": 4
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.BONE"
+            },
+            "weight": 3
+          }
+        ]
+      },
+      {
+        "minrolls": 0,
+        "maxrolls": 1,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 1,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Duskanthonypavlic"
+            },
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Anthonypavlicnewday"
+            },
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Shadewoodgreatsword"
+            },
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "minrolls": 1,
+        "maxrolls": 5,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 1,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Shadewoodplanks"
+            },
+            "weight": 5
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:BloodOrange"
+            },
+            "weight": 6
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.LEATHER_CHESTPLATE"
+            },
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.LEATHER_LEGGINGS"
+            },
+            "weight": 3
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.LEATHER_BOOTS"
+            },
+            "weight": 3
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.IRON_INGOT"
+            },
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.APPLE"
+            },
+            "weight": 6
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Ancientsteel"
+            },
+            "weight": 1
+          }
+        ]
+      }
+    ],
+    "name": "delapvillage",
+    "namespace": "mod"
+  }
+}

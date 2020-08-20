@@ -1,0 +1,12 @@
+{
+  "group": "the_shade_mod",
+  "type": "minecraft:smelting",
+  "experience": 10,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "the_shade_mod:bloodore"
+  },
+  "result": {
+    "item": "the_shade_mod:bloodingot"
+  }
+}

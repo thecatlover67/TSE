@@ -1,0 +1,12 @@
+{
+  "group": "the_shade_mod",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "the_shade_mod:bloodore"
+  },
+  "result": {
+    "item": "the_shade_mod:bloodingot"
+  }
+}

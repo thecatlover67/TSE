@@ -1,0 +1,13 @@
+{
+  "group": "the_shade_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_shade_mod:corruptedblock"
+    }
+  ],
+  "result": {
+    "item": "the_shade_mod:corruptedflesh",
+    "count": 9
+  }
+}

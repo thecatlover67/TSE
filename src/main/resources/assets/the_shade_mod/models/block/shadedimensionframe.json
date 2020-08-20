@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_shade_mod:blocks/bleeding_top",
+    "up": "the_shade_mod:blocks/bleeding_top",
+    "north": "the_shade_mod:blocks/bleeding_obsidian",
+    "east": "the_shade_mod:blocks/bleeding_obsidian",
+    "south": "the_shade_mod:blocks/bleeding_obsidian",
+    "west": "the_shade_mod:blocks/bleeding_obsidian",
+    "particle": "the_shade_mod:blocks/bleeding_top"
+  }
+}

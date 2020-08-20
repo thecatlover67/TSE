@@ -1,0 +1,94 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 10
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cobweb",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bone",
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 0,
+        "max": 1
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "the_shade_mod:duskanthonypavlic",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "the_shade_mod:anthonypavlicnewday",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "the_shade_mod:shadewoodgreatsword",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 1,
+        "max": 5
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "the_shade_mod:shadewoodplanks",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "the_shade_mod:blood_orange",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_ingot",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:apple",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "name": "the_shade_mod:ancientsteel",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

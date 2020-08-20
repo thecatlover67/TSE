@@ -1,0 +1,46 @@
+{
+  "_fv": 10,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Corruptedflesh"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Corruptedflesh"
+      },
+      {
+        "value": "CUSTOM:Corruptedflesh"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Corruptedflesh"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Corruptedarmor.boots"
+    },
+    "name": "boots",
+    "namespace": "mod"
+  }
+}

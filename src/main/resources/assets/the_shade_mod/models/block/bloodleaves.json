@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_shade_mod:blocks/blood_leaves",
+    "up": "the_shade_mod:blocks/blood_leaves",
+    "north": "the_shade_mod:blocks/blood_leaves",
+    "east": "the_shade_mod:blocks/blood_leaves",
+    "south": "the_shade_mod:blocks/blood_leaves",
+    "west": "the_shade_mod:blocks/blood_leaves",
+    "particle": "the_shade_mod:blocks/blood_leaves"
+  }
+}

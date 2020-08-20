@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_shade_mod:blocks/purple_mossy_cobble",
+    "up": "the_shade_mod:blocks/purple_mossy_cobble",
+    "north": "the_shade_mod:blocks/purple_mossy_cobble",
+    "east": "the_shade_mod:blocks/purple_mossy_cobble",
+    "south": "the_shade_mod:blocks/purple_mossy_cobble",
+    "west": "the_shade_mod:blocks/purple_mossy_cobble",
+    "particle": "the_shade_mod:blocks/purple_mossy_cobble"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "the_shade_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:water_bucket"
+    },
+    "1": {
+      "item": "minecraft:gold_ingot"
+    },
+    "2": {
+      "item": "minecraft:water_bucket"
+    },
+    "3": {
+      "item": "minecraft:diamond"
+    },
+    "4": {
+      "item": "the_shade_mod:bloodingot"
+    },
+    "5": {
+      "item": "minecraft:diamond"
+    },
+    "6": {
+      "item": "minecraft:water_bucket"
+    },
+    "7": {
+      "item": "minecraft:gold_ingot"
+    },
+    "8": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "the_shade_mod:holy_ingot",
+    "count": 5
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "the_shade_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_shade_mod:chaoticshard"
+    },
+    "1": {
+      "item": "the_shade_mod:chaoticshard"
+    },
+    "2": {
+      "item": "the_shade_mod:chaoticshard"
+    },
+    "3": {
+      "item": "the_shade_mod:chaoticshard"
+    },
+    "4": {
+      "item": "the_shade_mod:chaoticshard"
+    },
+    "5": {
+      "item": "the_shade_mod:chaoticshard"
+    },
+    "6": {
+      "item": "the_shade_mod:chaoticshard"
+    },
+    "7": {
+      "item": "the_shade_mod:chaoticshard"
+    },
+    "8": {
+      "item": "the_shade_mod:chaoticshard"
+    }
+  },
+  "result": {
+    "item": "the_shade_mod:chaoticgem",
+    "count": 1
+  }
+}

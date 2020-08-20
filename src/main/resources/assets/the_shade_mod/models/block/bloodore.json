@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_shade_mod:blocks/blood_ore",
+    "up": "the_shade_mod:blocks/blood_ore",
+    "north": "the_shade_mod:blocks/blood_ore",
+    "east": "the_shade_mod:blocks/blood_ore",
+    "south": "the_shade_mod:blocks/blood_ore",
+    "west": "the_shade_mod:blocks/blood_ore",
+    "particle": "the_shade_mod:blocks/blood_ore"
+  }
+}

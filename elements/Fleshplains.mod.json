@@ -1,0 +1,61 @@
+{
+  "_fv": 10,
+  "_type": "biome",
+  "definition": {
+    "groundBlock": {
+      "value": "CUSTOM:Fleshblock"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:Fleshblock"
+    },
+    "generateLakes": false,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 6,
+    "spawnVines": false,
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeStem": {
+      "value": "CUSTOM:BloodLog"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:Bloodleaves"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "grassColor": {
+      "value": -15466476,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -11398638,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 0,
+    "grassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "rainingPossibility": 0.0,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": false,
+    "biomeWeight": 10,
+    "biomeType": "WARM",
+    "biomeCategory": "PLAINS",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [
+      "PLAINS"
+    ],
+    "spawnEntries": []
+  }
+}
