@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "the_shade_mod:block/purple_mushroom_stem"
+    },
+    "facing=north": {
+      "model": "the_shade_mod:block/purple_mushroom_stem"
+    },
+    "facing=east": {
+      "model": "the_shade_mod:block/purple_mushroom_stem",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "the_shade_mod:block/purple_mushroom_stem",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "the_shade_mod:block/purple_mushroom_stem",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "the_shade_mod:block/purple_mushroom_stem",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

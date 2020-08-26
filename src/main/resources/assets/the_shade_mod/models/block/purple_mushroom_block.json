@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_shade_mod:blocks/purple_mushroom_block",
+    "up": "the_shade_mod:blocks/purple_mushroom_block",
+    "north": "the_shade_mod:blocks/purple_mushroom_block",
+    "east": "the_shade_mod:blocks/purple_mushroom_block",
+    "south": "the_shade_mod:blocks/purple_mushroom_block",
+    "west": "the_shade_mod:blocks/purple_mushroom_block",
+    "particle": "the_shade_mod:blocks/purple_mushroom_block"
+  }
+}

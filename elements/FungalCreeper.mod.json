@@ -2,13 +2,13 @@
   "_fv": 10,
   "_type": "mob",
   "definition": {
-    "mobName": "Fungal Cow",
+    "mobName": "Fungal Creeper",
     "mobLabel": "",
-    "mobModelName": "Cow",
-    "mobModelTexture": "fungal_cow.png",
+    "mobModelName": "Creeper",
+    "mobModelTexture": "fungal_creeper.png",
     "mobModelGlowTexture": "",
-    "modelWidth": 0.9,
-    "modelHeight": 1.4,
+    "modelWidth": 0.6,
+    "modelHeight": 1.7,
     "modelShadowSize": 0.5,
     "mountedYOffset": 0.0,
     "hasSpawnEgg": true,
@@ -46,11 +46,11 @@
     },
     "mobBehaviourType": "Mob",
     "mobCreatureType": "UNDEFINED",
-    "attackStrength": 10,
+    "attackStrength": 3,
     "movementSpeed": 0.3,
-    "armorBaseValue": 10.0,
+    "armorBaseValue": 100.0,
     "trackingRange": 64,
-    "health": 20,
+    "health": 25,
     "xpAmount": 0,
     "waterMob": false,
     "flyingMob": false,
@@ -73,16 +73,16 @@
       "value": ""
     },
     "livingSound": {
-      "value": "entity.cow.ambient"
+      "value": ""
     },
     "hurtSound": {
-      "value": "entity.cow.hurt"
+      "value": ""
     },
     "deathSound": {
-      "value": "entity.cow.death"
+      "value": ""
     },
     "stepSound": {
-      "value": "entity.cow.step"
+      "value": ""
     },
     "spawnParticles": false,
     "particleToSpawn": {
@@ -92,8 +92,8 @@
     "particleSpawningRadious": 0.5,
     "particleAmount": 4,
     "hasAI": true,
-    "aiBase": "(none)",
-    "aixml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"aitasks_container\" deletable=\"false\" x=\"40\" y=\"40\"><next><block type=\"attack_entity\"><field name=\"insight\">FALSE</field><field name=\"nearby\">FALSE</field><field name=\"entity\">EntityPlayer</field><field name=\"condition\">null,null</field><next><block type=\"attack_entity\"><field name=\"insight\">FALSE</field><field name=\"nearby\">FALSE</field><field name=\"entity\">EntityPlayerMP</field><field name=\"condition\">null,null</field><next><block type=\"attack_on_collide\"><field name=\"speed\">1.2</field><field name=\"longmemory\">FALSE</field><field name=\"condition\">null,null</field><next><block type=\"wander\"><field name=\"speed\">1</field><field name=\"condition\">null,null</field><next><block type=\"attack_action\"><field name=\"callhelp\">TRUE</field><field name=\"condition\">null,null</field><next><block type=\"look_around\"><field name=\"condition\">null,null</field><next><block type=\"swim_in_water\"><field name=\"condition\">null,null</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></xml>",
+    "aiBase": "Creeper",
+    "aixml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"aitasks_container\" deletable=\"false\" x=\"40\" y=\"40\"><next><block type=\"attack_on_collide\"><field name=\"speed\">1.2</field><field name=\"longmemory\">FALSE</field><field name=\"condition\">null,null</field><next><block type=\"wander\"><field name=\"speed\">1</field><field name=\"condition\">null,null</field><next><block type=\"attack_action\"><field name=\"callhelp\">FALSE</field><field name=\"condition\">null,null</field><next><block type=\"look_around\"><field name=\"condition\">null,null</field><next><block type=\"swim_in_water\"><field name=\"condition\">null,null</field></block></next></block></next></block></next></block></next></block></next></block></xml>",
     "breedable": false,
     "tameable": false,
     "breedTriggerItems": [],
@@ -104,10 +104,10 @@
     "rangedItemType": "Default item",
     "spawnThisMob": true,
     "doesDespawnWhenIdle": true,
-    "spawningProbability": 20,
+    "spawningProbability": 10,
     "mobSpawningType": "monster",
     "minNumberOfMobsPerGroup": 1,
-    "maxNumberOfMobsPerGroup": 5,
+    "maxNumberOfMobsPerGroup": 2,
     "restrictionBiomes": [
       {
         "value": "CUSTOM:Purplemushroombiome"

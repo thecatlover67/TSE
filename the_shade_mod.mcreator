@@ -1745,6 +1745,51 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "fungalcow"
+    },
+    {
+      "name": "PurpleMushroomBlock",
+      "type": "block",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_mushroom_block"
+    },
+    {
+      "name": "PurpleMushroomStem",
+      "type": "block",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_mushroom_stem"
+    },
+    {
+      "name": "PurpleMushroom",
+      "type": "plant",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_mushroom"
+    },
+    {
+      "name": "Purplemushroombiome",
+      "type": "biome",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purplemushroombiome"
+    },
+    {
+      "name": "FungalCreeper",
+      "type": "mob",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fungal_creeper"
     }
   ],
   "variable_elements": [
@@ -1776,8 +1821,8 @@
     "en_us": {
       "item.the_shade_mod.anthonypavlicnewday.desc": "Anthony Pavlic - New day",
       "item.the_shade_mod.fleshstaff": "Flesh Staff",
-      "block.the_shade_mod.shadewoodfence": "Shadewood Fence",
       "block.the_shade_mod.fleshflower": "Flesh Flower",
+      "block.the_shade_mod.shadewoodfence": "Shadewood Fence",
       "block.the_shade_mod.shadowstone": "Shadow Stone",
       "block.the_shade_mod.bloodore": "Blood Ore",
       "block.the_shade_mod.shadetrapdoor": "Shadewood Trapdoor",
@@ -1799,11 +1844,13 @@
       "block.the_shade_mod.skullblock": "Skullblock",
       "item.the_shade_mod.fleshballitem": "Fleshballitem",
       "block.the_shade_mod.shadedimensionframe": "Bleeding Obsidian",
+      "entity.the_shade_mod.fungal_creeper": "Fungal Creeper",
       "entity.the_shade_mod.ghoullord_2": "Ghoul Lord",
-      "block.the_shade_mod.purplemossybricks": "Purple Mossy Bricks",
       "entity.the_shade_mod.servant": "Servant",
+      "block.the_shade_mod.purplemossybricks": "Purple Mossy Bricks",
       "item.the_shade_mod.duskanthonypavlic": "Music Disc",
       "block.the_shade_mod.blood_planks": "Blood Planks",
+      "block.the_shade_mod.purple_mushroom_block": "Purple Mushroom Block",
       "item.the_shade_mod.corruptedarmor_chestplate": "Corrupted Chestplate",
       "block.the_shade_mod.fleshblock": "Flesh Block",
       "item.the_shade_mod.diamondhammer": "Diamond Hammer",
@@ -1871,6 +1918,7 @@
       "block.the_shade_mod.shadesapling": "Shade Bush",
       "item.the_shade_mod.corruptedarmor_helmet": "Corrupted Helmet",
       "entity.the_shade_mod.cultist": "Cultist",
+      "block.the_shade_mod.purple_mushroom": "Purple Mushroom",
       "block.the_shade_mod.shadewoodslab": "Shadewood Slab",
       "item.the_shade_mod.shadeitem": "Shadeitem",
       "block.the_shade_mod.ghostberrybush_2": "Ghostberrybush",
@@ -1884,11 +1932,13 @@
       "item.the_shade_mod.ghoul": "Ghoul Spawn Egg",
       "item.the_shade_mod.thegeneral": "The General Spawn Egg",
       "item.the_shade_mod.cultistset_boots": "Cult Lower Robe",
+      "item.the_shade_mod.fungal_creeper": "Fungal Creeper Spawn Egg",
       "block.the_shade_mod.shadewoodfencegate": "Shadewood Fencegate",
       "item.the_shade_mod.ancientspear": "Ancient Spear",
       "item.the_shade_mod.woodenhammer": "Wooden Hammer",
       "item.the_shade_mod.holy_handgrenade": "Holy Handgrenade",
       "item.the_shade_mod.fire_2": "Fire 2",
+      "block.the_shade_mod.purple_mushroom_stem": "Purple Mushroom Stem",
       "item.the_shade_mod.servant": "Servant Spawn Egg",
       "block.the_shade_mod.ghostberrybush_3": "Ghostberrybush"
     }
